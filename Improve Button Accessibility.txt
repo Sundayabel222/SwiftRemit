@@ -1,0 +1,43 @@
+Interactive Button States
+A comprehensive guide to tactile feedback, visual transitions, and accessibility standards for Web3 interfaces.
+
+1. State Matrix
+INTERACTION STATE	PRIMARY (NEON TEAL)	SECONDARY (GLASSMORPHISM)
+Default	Mint Token	Cancel
+Hover
++5% glow, shift	Mint Token	Cancel
+Active/Pressed
+Scale 0.98x	Mint Token	Cancel
+Focused
+2px High Contrast	Mint Token	Cancel
+2. Visual Feedback
+SHADOW PULSE (HOVER)
+COLOR TRANSITION
+Linear 0.2s duration for all interactive properties including background, shadow, and scale.
+
+3. Accessibility
+WCAG AA Compliant
+Our 2px high-contrast outline ensures 4.5:1 contrast ratio against dark backgrounds for keyboard users.
+
+BAD FOCUS | GOOD FOCUS
+
+4. Live Preview
+Cyber-Ape #4021
+Current Bid: 4.25 ETH
+Buy Now Details
+
+Design System Documentation — Interaction Guidelines 2024
+NEXT: COLOR PALETTE | PREVIOUS: FOUNDATIONS
+
+Key Elements Preserved:
+Element	Original	Copy
+Version	SYSTEM V2.4.0	✅
+Button Labels	Mint Token, Cancel	✅
+Interaction States	Default, Hover, Active/Pressed, Focused	✅
+Visual Feedback	+5% glow, shift, Scale 0.98x	✅
+Animation	Linear 0.2s duration	✅
+Accessibility	WCAG AA, 4.5:1 contrast, 2px outline	✅
+Example NFT	Cyber-Ape #4021, 4.25 ETH	✅
+Navigation	NEXT/PREVIOUS links	✅
+
+https://www.figma.com/design/NCgtJMJOWg87CIi53MlyAy/Improve-Button-Accessibility-and-Hover-States?node-id=1-2&t=tlMvgIMq3dbiCZAq-1
